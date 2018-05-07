@@ -1,0 +1,5 @@
+/home/marcus-campos/Projects/TrabalhoPratico1/TrabalhoPratico1/obj/x86/Debug/TrabalhoPratico1.csproj.CoreCompileInputs.cache
+/home/marcus-campos/Projects/TrabalhoPratico1/TrabalhoPratico1/bin/Debug/TrabalhoPratico1.exe
+/home/marcus-campos/Projects/TrabalhoPratico1/TrabalhoPratico1/bin/Debug/TrabalhoPratico1.pdb
+/home/marcus-campos/Projects/TrabalhoPratico1/TrabalhoPratico1/obj/x86/Debug/TrabalhoPratico1.exe
+/home/marcus-campos/Projects/TrabalhoPratico1/TrabalhoPratico1/obj/x86/Debug/TrabalhoPratico1.pdb
